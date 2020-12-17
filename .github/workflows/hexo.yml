@@ -8,7 +8,7 @@ on:
 env:
   GIT_USER: phodal
   GIT_EMAIL: h@phodal.com
-  DEPLOY_REPO: digital-technology-strategy.github.io
+  DEPLOY_REPO: digital-technology-strategy/digital-technology-strategy.github.io
   DEPLOY_BRANCH: master
 
 jobs:
