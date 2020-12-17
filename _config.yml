@@ -6,7 +6,7 @@
 title: 数字技术战略研究实验室
 subtitle: 寻找最合适的方法，推动数字化转换落地
 description: 数字技术战略研究所，由专注于数字化落地的科技公司的技术人才组成的研究实验室。
-keywords: DTS, digital technology strategy, tech strategy, 技术趋势, 技术战略, 数字技术战略 
+keywords: DTS, digital technology strategy, tech strategy, 技术趋势, 技术战略, 数字技术战略
 author: Phodal HUANG
 language: zh-CN
 timezone: 'Asia/Shanghai'
@@ -15,7 +15,7 @@ timezone: 'Asia/Shanghai'
 ## If your site is put in a subdirectory, set url as 'http://example.com/child' and root as '/child/'
 url: https://dts.plus
 root: /
-permalink: :year/:month/:day/:title/
+permalink: :title/
 permalink_defaults:
 pretty_urls:
   trailing_index: true # Set to false to remove trailing 'index.html' from permalinks
@@ -136,7 +136,7 @@ feed:
 prism_plugin:
   mode: 'preprocess'
   theme: 'default'
-  line_number: true 
+  line_number: true
 
 # theme: landscape
 
