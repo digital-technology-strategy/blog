@@ -50,9 +50,7 @@ jobs:
 
       - name: Install dependencies
         run: |
-          npm install
-          cd themes/typography
-          npm install
+          npm install && cd themes/typography && npm install
 
       - name: Build
         run: |
