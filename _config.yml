@@ -138,7 +138,13 @@ prism_plugin:
   theme: 'default'
   line_number: true
 
-# theme: landscape
+
+sitemap:
+  path: sitemap.xml
+  template: ./sitemap_template.xml
+  rel: false
+  tags: true
+  categories: true
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
