@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: 数字技术战略
 subtitle: ''
-description: ''
-keywords:
-author: John Doe
-language: en
-timezone: ''
+description: '前沿技术战略规划与落地'
+keywords: DTS, digital technology strategy, tech strategy, 技术趋势, 技术战略, 数字技术战略 
+author: Phodal HUANG
+language: zh-CN
+timezone: 'Asia/Shanghai'
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://example.com/child' and root as '/child/'
-url: http://example.com
+url: https://dts.plus
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
