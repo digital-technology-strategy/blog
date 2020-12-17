@@ -53,8 +53,9 @@ jobs:
           npm install
 
       - name: Install Themes dependencies
+        working-directory: themes/typography
         run: |
-          cd themes/typography && npm install
+          npm install
 
       - name: Build
         run: |
