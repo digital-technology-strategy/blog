@@ -3,10 +3,11 @@ layout: default
 title: 数字技术战略：开发者体验 —— 内部工具的“最后一公里”
 date: 2021-03-22 21:25:44
 tags:
-    - DTS 
     - 数字技术趋势
     - Digital Technologhy
     - 内源
+    - 开发者体验
+    - Thoughtworks
 author:
     - Phodal HUANG
 ---

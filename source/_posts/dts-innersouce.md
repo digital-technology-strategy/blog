@@ -7,6 +7,8 @@ tags:
     - 数字技术趋势
     - Digital Technologhy
     - 内源
+    - 中台
+    - Thoughtworks
 author:
     - Phodal HUANG
 ---
