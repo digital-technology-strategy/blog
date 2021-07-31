@@ -3,10 +3,9 @@ layout: default
 title: 数字技术战略：中大型组织 DevOps 成熟度模型
 date: 2021-07-31 21:31:59
 tags:
-    - DTS 
-    - 数字技术趋势
-    - Digital Technologhy
-    - 内源
+    - 数字技术化转型
+    - DevOps
+    - 成熟度模型
 author:
     - Phodal HUANG
 ---
